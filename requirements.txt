@@ -1,6 +1,4 @@
 scikit-learn
 numpy
 pandas
-os
-sys
 
